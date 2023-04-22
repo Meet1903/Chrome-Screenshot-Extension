@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Screenshot to local Extension",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_icon": "icon.png",
+      "default_title": "Take a screenshot",
+      "default_popup": "popup.html"
+    }
+  }
+  
